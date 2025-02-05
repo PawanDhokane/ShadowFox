@@ -13,7 +13,7 @@ print(type(pi))
 # --> SyntaxError: invalid syntax because "for" is a keyword in python...
 
 
- # 3. Store the principal amount, rate of interest, and time in
+# 3. Store the principal amount, rate of interest, and time in
 #  different variables and then calculate the Simple Interest for 3
 #  years. Formula: Simple Interest = P x R x T / 100
 print("Simple Interest Calculation")
