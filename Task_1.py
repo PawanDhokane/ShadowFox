@@ -1,3 +1,4 @@
+
 # 1. Variables 
 # 1. Create a variable named pi and store the value 22/7 in it.
 #  Now check the data type of this variable. 
@@ -23,5 +24,3 @@ R = float(input("Enter Rate of Interest : "))
 T = int(input("Enter Time Period in years : "))
 
 Simple_Interest = (P*R*T)/100
-
-print("Simple Interest is : ", Simple_Interest)
