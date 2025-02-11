@@ -5,7 +5,7 @@ countries = ["argentina", "brazil", "colombia", "denmark", "finland", "hungary",
 ]
 
 target = random.choice(countries).upper()  #selects a random country from list and converts it into uppercase.
-print(target)
+
 
 hidden_word = ["_"] * len(target)
 
